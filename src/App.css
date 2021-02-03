@@ -1,0 +1,132 @@
+h1
+{
+    margin: 0;
+    margin-top: 10px;
+    margin-left: 45%;
+}
+.actionButtons
+{
+    display: flex;
+    justify-items: center;
+    margin: 5px 10px;
+    padding-top: 0;
+}
+.buttons
+{
+    margin: 5px 10px;
+    padding: 4px;
+}
+.buttons button
+{
+    padding: 12px;
+    margin: 0;
+    margin-top: 45px;
+    cursor: pointer;
+}
+
+/*SEARCH BUTTON*/
+#btn_search
+{
+    width: 40%;
+}
+#btn_search fieldset
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 90%;
+    width: 70%;
+}
+#btn_search fieldset legend
+{
+    height: 30px;
+    padding-bottom: 6px;
+    margin-bottom: 0;
+}
+#btn_search fieldset legend h3
+{
+    margin: 0;
+    padding: 4px;
+}
+#btn_search fieldset button
+{
+    margin: 0;
+    margin-left: 10px;  
+}
+#btn_search #rbtn
+{
+    display: flex;
+}
+#btn_search #rbtn #rbtn_cod, 
+#btn_search #rbtn #rbtn_name
+{
+    margin: 3px 3px;
+    display: flex;
+    justify-content: space-between;
+}
+#btn_search #rbtn #rbtn_cod input,
+#btn_search #rbtn #rbtn_name input
+{
+    cursor: pointer;
+}
+/*PRODUCTS TABLE*/
+#table_prod
+{
+    margin: 30px auto;
+    width: 95%;
+}
+#table_prod, 
+#table_prod th, 
+#table_prod td
+{
+    border: 3px solid #535757;
+}
+#table_prod thead th 
+{
+    background-color: #707272;
+    font-size: 20px;
+}
+
+.form 
+{
+    margin-right: 2px;
+    padding-top: 0;
+    width: 30%;
+    height: 80px;
+    margin: 0 auto;
+    background-color: #999797;
+    border: 2px solid #000;
+    border-radius: 6px;
+}
+#btn_close 
+{
+    background-color: #ff2a2a;
+    border-radius: 10px;
+    height: 25px;
+    width: 25px;
+    position: relative;
+    left: 80%;
+} 
+#searchForm input,
+#searchForm button
+{
+    margin-left: 20px;
+}
+#searchForm label 
+{
+    margin-left: 12px;
+}
+#insertForm 
+{
+    display: flex;
+    flex-direction: column;
+    padding: 8% 3%;
+    padding-top: 2px;
+    padding-bottom: 180px;
+    height: 150px;
+    width: 40%;
+}
+#insertForm #btn_close 
+{
+    left : 98%;
+}

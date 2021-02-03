@@ -1,0 +1,37 @@
+[
+    {
+        "ID": 0,
+        "NAME": "ARCHIVADOR OFICIO LOMO ANCHO NEGRO",
+        "STOCK": 30,
+        "COST": 8.20,
+        "BRAND": "ARTESCO"
+    },
+    {
+        "ID": 1,
+        "NAME": "ARCHIVADOR A4 LOMO ANCHO AZUL",
+        "STOCK": 15,
+        "COST": 6.50,
+        "BRAND": "ARTESCO"
+    },
+    {
+        "ID": 2,
+        "NAME": "ARCHIVADOR A4 LOMO ANCHO ROJO",
+        "STOCK": 11,
+        "COST": 6.50,
+        "BRAND": "ARTESCO"
+    },
+    {
+        "ID": 3,
+        "NAME": "ARCHIVADOR OFICIO LOMO ANCHO NEGRO",
+        "STOCK": 9,
+        "COST": 6.50,
+        "BRAND": "ARTESCO"
+    },
+    {
+        "ID": 4,
+        "NAME": "LAPIZ 2B",
+        "STOCK": 50,
+        "COST": 1.50,
+        "BRAND": "FABER-CASTELL"
+    }
+]
